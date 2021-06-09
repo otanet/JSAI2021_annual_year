@@ -18,3 +18,6 @@ https://confit.atlas.jp/guide/event/jsai2021/subject/3J1-GS-6a-02/tables?cryptoI
 
 2021年度 人工知能学会全国大会（第35回）/言語メディア処理：基礎
 https://confit.atlas.jp/guide/event/jsai2021/session/3J01-05/tables?zTAFZIUuds
+
+2021年度　人工知能学会全国大会　第35回
+https://www.slideshare.net/otanet/202135
